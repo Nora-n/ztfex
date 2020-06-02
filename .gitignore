@@ -2,3 +2,5 @@
 *.cat
 
 *.fits
+
+Notebooks/.ipynb_checkpoints/
