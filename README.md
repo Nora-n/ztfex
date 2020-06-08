@@ -11,7 +11,7 @@ following files:
 - `sciimgdaopsfcent`
 
 that can be taken from
-[here](https://irsa.ipac.caltech.edu/ibe/data/ztf/products/sci/2020/0104/079398/)
+[here](https://irsa.ipac.caltech.edu/ibe/data/ztf/products/sci/2019/0124/095417/)
 
 The `sciunc.fits` file has to be created from the `sciimg` one. One can do so
 with the following:

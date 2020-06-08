@@ -4,3 +4,5 @@
 *.fits
 
 Notebooks/.ipynb_checkpoints/
+
+*.fz
